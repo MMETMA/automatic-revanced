@@ -12,7 +12,9 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 build-mode = "module"
-version = "20.21.37"
+excluded-patches = "'Copy video URL' 'Downloads' 'Custom branding' 'Change header' 'Change form factor' 'Wide search bar' 'Spoof app version' 'Change start page' 'Theme' 'Alternative thumbnails' 'Announcements' 'Enable debugging' 'Spoof device dimensions' 'GmsCore support'"
+
+
 
 
 
