@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 3.15.0)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/MMETMA/automatic-revanced/releases/download/4/youtube-anddea-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 3.16.0)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/MMETMA/automatic-revanced/releases/download/5/youtube-anddea-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/MMETMA/automatic-revanced/update/build.md"
 }
